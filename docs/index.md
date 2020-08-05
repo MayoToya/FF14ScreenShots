@@ -77,3 +77,8 @@ ElementalDC Aegis ゴブレットビュート 11区 31番地
 ElementalDC Aegis ゴブレットビュート 11区 32番地
 * https://gyazo.com/a225997f6f5f22ccebc6fbe4e444938f
 [![Image from Gyazo](https://i.gyazo.com/a225997f6f5f22ccebc6fbe4e444938f.png)](https://gyazo.com/a225997f6f5f22ccebc6fbe4e444938f)
+
+## めいど喫茶あすたぁ
+ElementalDC Gungnir ミスト・ヴィレッジ 拡張街 12区 トップマスト 85号室
+* https://gyazo.com/c436a4666e78f6e0858bd94dda09fd32
+[![Image from Gyazo](https://i.gyazo.com/c436a4666e78f6e0858bd94dda09fd32.png)](https://gyazo.com/c436a4666e78f6e0858bd94dda09fd32)
