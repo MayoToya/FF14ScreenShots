@@ -1,8 +1,12 @@
+---
+title: FF14 Screenshots by Mayo Toya
+---
 # キャラクターカード
 * https://gyazo.com/c10f56970371c812970962d81b69ee7b
 [![Image from Gyazo](https://i.gyazo.com/c10f56970371c812970962d81b69ee7b.jpg)](https://gyazo.com/c10f56970371c812970962d81b69ee7b)
 
-# うぺぺベーカリー
+# ハウジング
+## うぺぺベーカリー
 ElementalDC Unicorn ラベンダーベッド 17区 35番地
 * https://gyazo.com/5d92721c38f23a250519ff0700921d2b
 [![Image from Gyazo](https://i.gyazo.com/5d92721c38f23a250519ff0700921d2b.png)](https://gyazo.com/5d92721c38f23a250519ff0700921d2b)
@@ -19,26 +23,26 @@ ElementalDC Unicorn ラベンダーベッド 17区 35番地
 * https://gyazo.com/2fc7e4204c2c8c73fad6a80eb7aebfb8
 [![Image from Gyazo](https://i.gyazo.com/2fc7e4204c2c8c73fad6a80eb7aebfb8.png)](https://gyazo.com/2fc7e4204c2c8c73fad6a80eb7aebfb8)
 
-# Bar寝落ちの森
+## Bar寝落ちの森
 ElementalDC Aegis ミスト・ヴィレッジ 20区 トップマスト 2号室
 * https://gyazo.com/f2b3f58085a5ab758f16a8a99ade46e5
 [![Image from Gyazo](https://i.gyazo.com/f2b3f58085a5ab758f16a8a99ade46e5.png)](https://gyazo.com/f2b3f58085a5ab758f16a8a99ade46e5)
 * https://gyazo.com/e80bbbb416d75ec921ab09f78ac5dc96
 [![Image from Gyazo](https://i.gyazo.com/e80bbbb416d75ec921ab09f78ac5dc96.png)](https://gyazo.com/e80bbbb416d75ec921ab09f78ac5dc96)
 
-# さるるの実験部屋
+## さるるの実験部屋
 ElementalDC Aegis ラベンダーベッド 21区 リリーヒルズ 1号室
 * https://gyazo.com/785f5d0ccf3540b7f3f16e8877a22063
 [![Image from Gyazo](https://i.gyazo.com/785f5d0ccf3540b7f3f16e8877a22063.png)](https://gyazo.com/785f5d0ccf3540b7f3f16e8877a22063)
 * https://gyazo.com/6db0a95f61f5702cd8589ca2c6a2e48d
 [![Image from Gyazo](https://i.gyazo.com/6db0a95f61f5702cd8589ca2c6a2e48d.png)](https://gyazo.com/6db0a95f61f5702cd8589ca2c6a2e48d)
 
-# 牢獄Bar
+## 牢獄Bar
 ElementalDC Unicorn ラベンダーベッド 6区 リリーヒルズ 30号室
 * https://gyazo.com/0f54b800ee61f5e3335ed94d55c4b630
 [![Image from Gyazo](https://i.gyazo.com/0f54b800ee61f5e3335ed94d55c4b630.png)](https://gyazo.com/0f54b800ee61f5e3335ed94d55c4b630)
 
-# 誰そ彼庵
+## 誰そ彼庵
 ElementalDC Aegis ミスト・ヴィレッジ 7区 23番地
 * https://gyazo.com/a32a371567dbdc920d800873baf4c580
 [![Image from Gyazo](https://i.gyazo.com/a32a371567dbdc920d800873baf4c580.png)](https://gyazo.com/a32a371567dbdc920d800873baf4c580)
@@ -49,7 +53,7 @@ ElementalDC Aegis ミスト・ヴィレッジ 7区 23番地
 * https://gyazo.com/e1538507812f06d606932f50e05dd8e8
 [![Image from Gyazo](https://i.gyazo.com/e1538507812f06d606932f50e05dd8e8.png)](https://gyazo.com/e1538507812f06d606932f50e05dd8e8)
 
-# ﾍﾞｰｶﾘｰ&ｶﾌｪ Piilo
+## ﾍﾞｰｶﾘｰ&ｶﾌｪ Piilo
 ElementalDC Unicorn ゴブレットビュート 7区 43番地
 * https://gyazo.com/a6ee872f3c8ffc953a11ad6ac7058845
 [![Image from Gyazo](https://i.gyazo.com/a6ee872f3c8ffc953a11ad6ac7058845.png)](https://gyazo.com/a6ee872f3c8ffc953a11ad6ac7058845)
@@ -62,9 +66,14 @@ ElementalDC Unicorn ゴブレットビュート 7区 43番地
 * https://gyazo.com/a0edc21dbad423eab94ae5dcf6087be4
 [![Image from Gyazo](https://i.gyazo.com/a0edc21dbad423eab94ae5dcf6087be4.png)](https://gyazo.com/a0edc21dbad423eab94ae5dcf6087be4)
 
-# 格子天井と水槽のBar
+## 格子天井と水槽のBar
 ElementalDC Aegis ゴブレットビュート 11区 31番地
 * https://gyazo.com/68df67c857c9dae9255ea16e6720f97e
 [![Image from Gyazo](https://i.gyazo.com/68df67c857c9dae9255ea16e6720f97e.png)](https://gyazo.com/68df67c857c9dae9255ea16e6720f97e)
 * https://gyazo.com/e3f040c7253004af36e373a3ba564d93
 [![Image from Gyazo](https://i.gyazo.com/e3f040c7253004af36e373a3ba564d93.png)](https://gyazo.com/e3f040c7253004af36e373a3ba564d93)
+
+## 砂の都のお家カフェSaruruCafe
+ElementalDC Aegis ゴブレットビュート 11区 32番地
+* https://gyazo.com/a225997f6f5f22ccebc6fbe4e444938f
+[![Image from Gyazo](https://i.gyazo.com/a225997f6f5f22ccebc6fbe4e444938f.png)](https://gyazo.com/a225997f6f5f22ccebc6fbe4e444938f)
