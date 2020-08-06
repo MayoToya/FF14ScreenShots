@@ -41,6 +41,14 @@ ElementalDC Aegis ラベンダーベッド 21区 リリーヒルズ 1号室
 ElementalDC Unicorn ラベンダーベッド 6区 リリーヒルズ 30号室
 * https://gyazo.com/0f54b800ee61f5e3335ed94d55c4b630
 [![Image from Gyazo](https://i.gyazo.com/0f54b800ee61f5e3335ed94d55c4b630.png)](https://gyazo.com/0f54b800ee61f5e3335ed94d55c4b630)
+* https://gyazo.com/dce033ab2804ff80036eaaa3fc551abf
+[![Image from Gyazo](https://i.gyazo.com/dce033ab2804ff80036eaaa3fc551abf.png)](https://gyazo.com/dce033ab2804ff80036eaaa3fc551abf)
+* https://gyazo.com/ba19c7b532fd5f5ee98fbb192c3f552e
+[![Image from Gyazo](https://i.gyazo.com/ba19c7b532fd5f5ee98fbb192c3f552e.png)](https://gyazo.com/ba19c7b532fd5f5ee98fbb192c3f552e)
+* https://gyazo.com/95e83b3ee6d3af93d75040a7a9aa77df
+[![Image from Gyazo](https://i.gyazo.com/95e83b3ee6d3af93d75040a7a9aa77df.png)](https://gyazo.com/95e83b3ee6d3af93d75040a7a9aa77df)
+* https://gyazo.com/197ee95b02954907b794d219fae7c510
+[![Image from Gyazo](https://i.gyazo.com/197ee95b02954907b794d219fae7c510.png)](https://gyazo.com/197ee95b02954907b794d219fae7c510)
 
 ## 誰そ彼庵
 ElementalDC Aegis ミスト・ヴィレッジ 7区 23番地
@@ -68,6 +76,12 @@ ElementalDC Unicorn ゴブレットビュート 7区 43番地
 
 ## 格子天井と水槽のBar
 ElementalDC Aegis ゴブレットビュート 11区 31番地
+* https://gyazo.com/62b8c137c9aecc54bf8457e41679ffcd
+[![Image from Gyazo](https://i.gyazo.com/62b8c137c9aecc54bf8457e41679ffcd.png)](https://gyazo.com/62b8c137c9aecc54bf8457e41679ffcd)
+* https://gyazo.com/4b9d8425fb927f04fc67c317039a313a
+[![Image from Gyazo](https://i.gyazo.com/4b9d8425fb927f04fc67c317039a313a.png)](https://gyazo.com/4b9d8425fb927f04fc67c317039a313a)
+* https://gyazo.com/56b4c4f00a8b382fa5bfd5ff93f329bb
+[![Image from Gyazo](https://i.gyazo.com/56b4c4f00a8b382fa5bfd5ff93f329bb.png)](https://gyazo.com/56b4c4f00a8b382fa5bfd5ff93f329bb)
 * https://gyazo.com/68df67c857c9dae9255ea16e6720f97e
 [![Image from Gyazo](https://i.gyazo.com/68df67c857c9dae9255ea16e6720f97e.png)](https://gyazo.com/68df67c857c9dae9255ea16e6720f97e)
 * https://gyazo.com/e3f040c7253004af36e373a3ba564d93
@@ -82,3 +96,8 @@ ElementalDC Aegis ゴブレットビュート 11区 32番地
 ElementalDC Gungnir ミスト・ヴィレッジ 拡張街 12区 トップマスト 85号室
 * https://gyazo.com/c436a4666e78f6e0858bd94dda09fd32
 [![Image from Gyazo](https://i.gyazo.com/c436a4666e78f6e0858bd94dda09fd32.png)](https://gyazo.com/c436a4666e78f6e0858bd94dda09fd32)
+
+## 小鬼のおにぎり屋おにや
+ElementalDC Unicorn ゴブレットビュート 20区 5番地
+* https://gyazo.com/44e054c9a892cb1e1af986ef4c48ec51
+[![Image from Gyazo](https://i.gyazo.com/44e054c9a892cb1e1af986ef4c48ec51.png)](https://gyazo.com/44e054c9a892cb1e1af986ef4c48ec51)
