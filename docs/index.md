@@ -101,3 +101,12 @@ ElementalDC Gungnir ミスト・ヴィレッジ 拡張街 12区 トップマス�
 ElementalDC Unicorn ゴブレットビュート 20区 5番地
 * https://gyazo.com/44e054c9a892cb1e1af986ef4c48ec51
 [![Image from Gyazo](https://i.gyazo.com/44e054c9a892cb1e1af986ef4c48ec51.png)](https://gyazo.com/44e054c9a892cb1e1af986ef4c48ec51)
+
+## サレタチノ
+ElementalDC Typhon ミスト・ヴィレッジ 14区 19番地
+* https://gyazo.com/140fc7b3fb08e3805896266894aaa14e
+[![Image from Gyazo](https://i.gyazo.com/140fc7b3fb08e3805896266894aaa14e.png)](https://gyazo.com/140fc7b3fb08e3805896266894aaa14e)
+
+
+# Copyright
+Copyright (C) SQUARE ENIX CO., LTD. All Rights Reserved.
