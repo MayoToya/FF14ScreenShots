@@ -2,8 +2,11 @@
 title: FF14 Screenshots by Mayo Toya
 ---
 # キャラクターカード
+* https://gyazo.com/77abb03857235b814470d67f8578beda
+[![Image from Gyazo](https://i.gyazo.com/77abb03857235b814470d67f8578beda.jpg)](https://gyazo.com/77abb03857235b814470d67f8578beda)
 * https://gyazo.com/c10f56970371c812970962d81b69ee7b
 [![Image from Gyazo](https://i.gyazo.com/c10f56970371c812970962d81b69ee7b.jpg)](https://gyazo.com/c10f56970371c812970962d81b69ee7b)
+
 
 # ハウジング
 ## うぺぺベーカリー
@@ -107,6 +110,12 @@ ElementalDC Typhon ミスト・ヴィレッジ 14区 19番地
 * https://gyazo.com/140fc7b3fb08e3805896266894aaa14e
 [![Image from Gyazo](https://i.gyazo.com/140fc7b3fb08e3805896266894aaa14e.png)](https://gyazo.com/140fc7b3fb08e3805896266894aaa14e)
 
+## 一閃
+ElementalDC Atomos ラベンダーベッド 17区 5番地
+* https://gyazo.com/17478a92bab0117d83158327554f7c7
+[![Image from Gyazo](https://i.gyazo.com/17478a92bab0117d83158327554f7c7d.png)](https://gyazo.com/17478a92bab0117d83158327554f7c7d)
+* https://gyazo.com/016b2ff613c599106b5af4ee7c2dd8d1
+[![Image from Gyazo](https://i.gyazo.com/016b2ff613c599106b5af4ee7c2dd8d1.png)](https://gyazo.com/016b2ff613c599106b5af4ee7c2dd8d1)
 
 # Copyright
 Copyright (C) SQUARE ENIX CO., LTD. All Rights Reserved.
