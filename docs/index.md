@@ -13,6 +13,8 @@ title: FF14 Screenshots by Mayo Toya
 ElementalDC Aegis ゴブレットビュート 11区 31番地
 * https://gyazo.com/14b795e6e7c9b18149c386537b708d9a
 [![Image from Gyazo](https://i.gyazo.com/14b795e6e7c9b18149c386537b708d9a.png)](https://gyazo.com/14b795e6e7c9b18149c386537b708d9a)
+* https://gyazo.com/ad35328ee9c6275b6b7b2859aafc6281
+[![Image from Gyazo](https://i.gyazo.com/ad35328ee9c6275b6b7b2859aafc6281.png)](https://gyazo.com/ad35328ee9c6275b6b7b2859aafc6281)
 
 ## うぺぺベーカリー
 ElementalDC Unicorn ラベンダーベッド 17区 35番地
