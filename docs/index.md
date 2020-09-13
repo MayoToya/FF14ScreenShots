@@ -9,6 +9,11 @@ title: FF14 Screenshots by Mayo Toya
 
 
 # ハウジング
+## ワンルームなサンルーム
+ElementalDC Aegis ゴブレットビュート 11区 31番地
+* https://gyazo.com/14b795e6e7c9b18149c386537b708d9a
+[![Image from Gyazo](https://i.gyazo.com/14b795e6e7c9b18149c386537b708d9a.png)](https://gyazo.com/14b795e6e7c9b18149c386537b708d9a)
+
 ## うぺぺベーカリー
 ElementalDC Unicorn ラベンダーベッド 17区 35番地
 * https://gyazo.com/5d92721c38f23a250519ff0700921d2b
