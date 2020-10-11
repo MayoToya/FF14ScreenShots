@@ -9,6 +9,26 @@ title: FF14 Screenshots by Mayo Toya
 
 
 # ハウジング
+## 市松天井の画廊
+ElementalDC Aegis ゴブレットビュート 11区 31番地
+* https://gyazo.com/8346b820d85915f65587672f07050afa
+[![Image from Gyazo](https://i.gyazo.com/8346b820d85915f65587672f07050afa.png)](https://gyazo.com/8346b820d85915f65587672f07050afa)
+* https://gyazo.com/bd3c65b0a4782791927b8525f185f12a
+[![Image from Gyazo](https://i.gyazo.com/bd3c65b0a4782791927b8525f185f12a.png)](https://gyazo.com/bd3c65b0a4782791927b8525f185f12a)
+* https://gyazo.com/e2c542b67fc62e8b6321c31b504ed66d
+[![Image from Gyazo](https://i.gyazo.com/e2c542b67fc62e8b6321c31b504ed66d.png)](https://gyazo.com/e2c542b67fc62e8b6321c31b504ed66d)
+* https://gyazo.com/743c7fed59c96f6f92d09643ffa89026
+[![Image from Gyazo](https://i.gyazo.com/743c7fed59c96f6f92d09643ffa89026.png)](https://gyazo.com/743c7fed59c96f6f92d09643ffa89026)
+* https://gyazo.com/ed7155058aeba93390fae17ed65b6d11
+[![Image from Gyazo](https://i.gyazo.com/ed7155058aeba93390fae17ed65b6d11.png)](https://gyazo.com/ed7155058aeba93390fae17ed65b6d11)
+* https://gyazo.com/6a9d41c7ca8205735b7129fa659104e3
+[![Image from Gyazo](https://i.gyazo.com/6a9d41c7ca8205735b7129fa659104e3.png)](https://gyazo.com/6a9d41c7ca8205735b7129fa659104e3)
+* https://gyazo.com/8a018e48bb26b4fa14aadc04fd5f611e
+[![Image from Gyazo](https://i.gyazo.com/8a018e48bb26b4fa14aadc04fd5f611e.png)](https://gyazo.com/8a018e48bb26b4fa14aadc04fd5f611e)
+* https://gyazo.com/84b9c139b36a836d59f9b03b0480df46
+[![Image from Gyazo](https://i.gyazo.com/84b9c139b36a836d59f9b03b0480df46.png)](https://gyazo.com/84b9c139b36a836d59f9b03b0480df46)
+
+
 ## ワンルームなサンルーム
 ElementalDC Aegis ゴブレットビュート 11区 31番地
 * https://gyazo.com/14b795e6e7c9b18149c386537b708d9a
