@@ -2,6 +2,8 @@
 title: FF14 Screenshots by Mayo Toya
 ---
 # キャラクターカード
+* https://gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe
+[![Image from Gyazo](https://i.gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe.jpg)](https://gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe)
 * https://gyazo.com/65452dc9e465f1438232563a489a187e
 [![Image from Gyazo](https://i.gyazo.com/65452dc9e465f1438232563a489a187e.jpg)](https://gyazo.com/65452dc9e465f1438232563a489a187e)
 * https://gyazo.com/77abb03857235b814470d67f8578beda
