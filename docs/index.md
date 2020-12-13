@@ -16,6 +16,7 @@ title: FF14 Screenshots by Mayo Toya
 [![Image from Gyazo](https://i.gyazo.com/77abb03857235b814470d67f8578beda.jpg)](https://gyazo.com/77abb03857235b814470d67f8578beda)
 * https://gyazo.com/c10f56970371c812970962d81b69ee7b
 [![Image from Gyazo](https://i.gyazo.com/c10f56970371c812970962d81b69ee7b.jpg)](https://gyazo.com/c10f56970371c812970962d81b69ee7b)
+
 </details>
 
 # ハウジング
