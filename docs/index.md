@@ -2,6 +2,12 @@
 title: FF14 Screenshots by Mayo Toya
 ---
 # キャラクターカード
+* https://gyazo.com/baad68a72cac43a0d178df21d02c5683
+[![Image from Gyazo](https://i.gyazo.com/baad68a72cac43a0d178df21d02c5683.jpg)](https://gyazo.com/baad68a72cac43a0d178df21d02c5683)
+
+<details>
+<summary>history</summary>
+
 * https://gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe
 [![Image from Gyazo](https://i.gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe.jpg)](https://gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe)
 * https://gyazo.com/65452dc9e465f1438232563a489a187e
@@ -10,7 +16,7 @@ title: FF14 Screenshots by Mayo Toya
 [![Image from Gyazo](https://i.gyazo.com/77abb03857235b814470d67f8578beda.jpg)](https://gyazo.com/77abb03857235b814470d67f8578beda)
 * https://gyazo.com/c10f56970371c812970962d81b69ee7b
 [![Image from Gyazo](https://i.gyazo.com/c10f56970371c812970962d81b69ee7b.jpg)](https://gyazo.com/c10f56970371c812970962d81b69ee7b)
-
+</details>
 
 # ハウジング
 ## 市松天井の画廊
@@ -31,7 +37,6 @@ ElementalDC Aegis ゴブレットビュート 11区 31番地
 [![Image from Gyazo](https://i.gyazo.com/8a018e48bb26b4fa14aadc04fd5f611e.png)](https://gyazo.com/8a018e48bb26b4fa14aadc04fd5f611e)
 * https://gyazo.com/84b9c139b36a836d59f9b03b0480df46
 [![Image from Gyazo](https://i.gyazo.com/84b9c139b36a836d59f9b03b0480df46.png)](https://gyazo.com/84b9c139b36a836d59f9b03b0480df46)
-
 
 ## ワンルームなサンルーム
 ElementalDC Aegis ゴブレットビュート 11区 31番地
