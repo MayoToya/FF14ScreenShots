@@ -2,12 +2,16 @@
 title: FF14 Screenshots by Mayo Toya
 ---
 # キャラクターカード
-* https://gyazo.com/baad68a72cac43a0d178df21d02c5683
-[![Image from Gyazo](https://i.gyazo.com/baad68a72cac43a0d178df21d02c5683.jpg)](https://gyazo.com/baad68a72cac43a0d178df21d02c5683)
+* https://gyazo.com/c9a3aaf70f4826b483264c00abafe0a3
+[![Image from Gyazo](https://i.gyazo.com/c9a3aaf70f4826b483264c00abafe0a3.jpg)](https://gyazo.com/c9a3aaf70f4826b483264c00abafe0a3)
 
 <details>
 <summary>history</summary>
 
+* https://gyazo.com/fa00e3b279ca4ad88a734b861ef87370
+[![Image from Gyazo](https://i.gyazo.com/fa00e3b279ca4ad88a734b861ef87370.jpg)](https://gyazo.com/fa00e3b279ca4ad88a734b861ef87370)
+* https://gyazo.com/baad68a72cac43a0d178df21d02c5683
+[![Image from Gyazo](https://i.gyazo.com/baad68a72cac43a0d178df21d02c5683.jpg)](https://gyazo.com/baad68a72cac43a0d178df21d02c5683)
 * https://gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe
 [![Image from Gyazo](https://i.gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe.jpg)](https://gyazo.com/88e38e78e243a8c8fdd5424d5d7acbbe)
 * https://gyazo.com/65452dc9e465f1438232563a489a187e
